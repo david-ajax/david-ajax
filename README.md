@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @david-ajax
-- 👀 I’m interested in Python & Linux
-- 😃 Nice to meet you!
+It's glad to meet you!
