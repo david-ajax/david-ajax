@@ -1,6 +1,6 @@
 # 👋 你好，我是 Wang Zhiyu
 
-### 🛠 技术栈
+### 技术栈
 
 <p align="left">
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -15,16 +15,20 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
 </p>
 
-### 🚀 正在开发的项目
+### 正开发
 
 **AiraPulsar** - 基于网络的固定翼无人机/航模超视距通用飞行控制系统
 
 > 尚处于早期开发状态
 
-[![查看项目](https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.imwangzhiyu.xyz/ajax/AiraPulsar)
+<a href="https://gitea.imwangzhiyu.xyz/ajax/AiraPulsar" style="pointer-events: none; cursor: default;">
+  <img src="https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white" alt="查看项目" />
+</a>
 
 **潜进/HeurAMS** - 启发式辅助记忆调度器
 
 > 为问答, 记忆, 理解型知识设计的开放源代码辅助记忆软件, 提供动态规划的优化记忆方案
 
-[![查看项目](https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.imwangzhiyu.xyz/ajax/HeurAMS)
+<a href="https://gitea.imwangzhiyu.xyz/ajax/HeurAMS" style="pointer-events: none; cursor: default;">
+  <img src="https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white" alt="查看项目" />
+</a>
