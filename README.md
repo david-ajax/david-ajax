@@ -19,6 +19,12 @@
 
 **AiraPulsar** - 基于网络的固定翼无人机/航模超视距通用飞行控制系统
 
-> 附带一个基于 SDL 的面向对象设计的矢量图形绘制库
+> 尚处于早期开发状态
 
 [![查看项目](https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.imwangzhiyu.xyz/ajax/AiraPulsar)
+
+**潜进/HeurAMS** - 启发式辅助记忆调度器
+
+> 为问答, 记忆, 理解型知识设计的开放源代码辅助记忆软件, 提供动态规划的优化记忆方案
+
+[![查看项目](https://img.shields.io/badge/Gitea-查看项目-5F5F5F?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.imwangzhiyu.xyz/ajax/HeurAMS)
